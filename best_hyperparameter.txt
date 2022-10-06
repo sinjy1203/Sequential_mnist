@@ -1,0 +1,1 @@
+{'ACC': 0.9670666666666696, 'LOSS': 0.10952434631979599, 'HYPERPARAMETER': {'model': 'GRU', 'bi': True, 'batch_size': 32, 'lr': 0.004007797258623922, 'hidden_size': 64, 'num_layers': 2, 'dropout': 0.24491694743663955}}
