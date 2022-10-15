@@ -4,10 +4,10 @@
 </br>
 
 ## 2. 사용 기술
-- language: python
-- framework: pytorch
-- model: LSTM, GRU, TCN
-- optimize hyperparameter: Random Search, Bayesian optimize
+- **language**: python
+- **framework**: pytorch
+- **model**: LSTM, GRU, TCN
+- **optimize** hyperparameter: Random Search, Bayesian optimize
 
 </br>
 
