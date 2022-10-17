@@ -3,7 +3,7 @@
 
 </br>
 
-## 2. 사용 기술
+## 1. 사용 기술
 - **language**: python
 - **framework**: pytorch
 - **model**: LSTM, GRU, TCN
@@ -11,7 +11,7 @@
 
 </br>
 
-## 3. file 설명
+## 2. file 설명
 ### 'train.py' 'train_cv.py' 
 - 모델 학습, k-fold를 통한 학습
 ### 'model.py' 
